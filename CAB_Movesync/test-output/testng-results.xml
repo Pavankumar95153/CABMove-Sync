@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37791" started-at="2019-04-03T14:45:01Z" finished-at="2019-04-03T14:45:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37791" started-at="2019-04-03T14:45:01Z" finished-at="2019-04-03T14:45:39Z">
+      <class name="Selenium.CAB_Movesync.lanuch_CAB">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Selenium.CAB_Movesync.lanuch_CAB@cc285f4]" name="browser" is-config="true" duration-ms="32321" started-at="2019-04-03T14:45:01Z" finished-at="2019-04-03T14:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="testdata(java.lang.String, java.lang.String)[pri:0, instance:Selenium.CAB_Movesync.lanuch_CAB@cc285f4]" name="testdata" duration-ms="1293" started-at="2019-04-03T14:45:33Z" data-provider="DATAA" finished-at="2019-04-03T14:45:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[115234447]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Love@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdata -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:Selenium.CAB_Movesync.lanuch_CAB@cc285f4]" name="stop" is-config="true" duration-ms="4154" started-at="2019-04-03T14:45:35Z" finished-at="2019-04-03T14:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- Selenium.CAB_Movesync.lanuch_CAB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
